@@ -14,7 +14,7 @@ cd db_vkcloud_terraform
 
 ### 2. Настройка переменных
 
-измените переменные на те, которые вам нужны в файлах secret.tfvars и variables.tf
+измените переменные на те, которые вам нужны в файлах secret.tfvars, variables.tf и provider.tf
 
 ### 3. Инициализация и развертывание
 
