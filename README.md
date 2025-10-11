@@ -8,7 +8,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/somebodyaroundthere/db__vkcloud_terraform.git
+git clone https://github.com/somebodyaroundthere/db_vkcloud_terraform.git
 cd db_vkcloud_terraform
 ```
 
@@ -42,7 +42,7 @@ python3 script.py
 ## 📁 Структура проекта
 
 ```text
-mysql-database-terraform/
+db_vkcloud_terraform/
 ├── main.tf                 # Основная конфигурация Terraform
 ├── variables.tf            # Определение переменных
 ├── vkcs_provider.tf        # Настройка провайдера VK Cloud
